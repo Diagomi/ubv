@@ -1,0 +1,6 @@
+plaintext
+SESSION_SECRET=tu_secreto
+PATH_TO_KEY=path/to/your/private.key
+PATH_TO_CERT=path/to/your/certificate.crt
+PATH_TO_CA_BUNDLE=path/to/your/ca_bundle.crt (si es necesario)
+PORT=3000
